@@ -1,8 +1,8 @@
-/*  Program:		MSVS 2012/2015
+/*  	Program:		MSVS 2012/2015
 	Author:			Mai Pham	
 	Class:			CSCI 140
 	Date:			03/23/2017
-	Description:	Project 1 = Vending Machine + Extra Credit 1
+	Description:		Project 1: Vending Machine + Extra Credit 1
 	I certify that the code below is my own work.
 	Exception(s): N/A
 */
